@@ -1,0 +1,6 @@
+[JMiahMan]
+name=JMiahMan Test
+baseurl=http://pclinuxoshwdb.org/korora/rpms/test/$releasever/$basearch/
+enabled=0
+gpgcheck=1
+#gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-google-talkplugin
